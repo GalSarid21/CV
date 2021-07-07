@@ -1,0 +1,47 @@
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  font-family: Lucida Sans Typewriter;
+  color: #3C8DAD;
+  text-align:center;
+  font-size: 60px;
+  line-height:2px;
+}
+
+h2 {
+  font-family: Lucida Sans Typewriter;
+  color: #3C8DAD;
+  text-align:center;
+}
+
+h3 {
+  font-family: Lucida Sans Typewriter;
+  color: #66BFBF;
+}
+
+hr {
+  border-style: none;
+  height:30px;
+  margin-top: 3em;
+  border-top: 8px dotted;
+  border-color: gray;
+  width: 8%;
+}
+
+p {
+  font-family: calibri;
+  color: #0A1931
+}
+
+li {
+  font-family: calibri;
+  color: #0A1931
+}
+
+td {
+  padding:15px;
+  font-family: calibri;
+  color: #0A1931
+}
