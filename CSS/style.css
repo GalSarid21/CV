@@ -23,7 +23,7 @@ h2 {
 h3 {
   font-family: 'Work Sans', sans-serif;
   color: #66BFBF;
-  margin:0px 60px 0px 30px;
+  margin:0% 20% 0% 20%;
 }
 
 hr {
@@ -41,7 +41,7 @@ p {
 }
 
 li {
-  margin:0px 60px 0px 30px;
+  margin:0% 20% 0% 20%;
   font-family: 'Work Sans', sans-serif;
   color: #0A1931;
 }
@@ -50,5 +50,5 @@ td {
   padding:10px;
   font-family: 'Work Sans', sans-serif;
   color: #0A1931;
-  margin:0px 60px 0px 30px;
+  margin:0% 20% 0% 20%;
 }
