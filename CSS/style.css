@@ -69,3 +69,9 @@ a:hover {
 .stop-scroll {
   position: fixed;
 }
+
+@media only screen and (max-width: 1080px) {
+  .personal-information {
+    font-size: 20;
+  }  
+}
