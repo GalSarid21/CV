@@ -70,8 +70,8 @@ a:hover {
   position: fixed;
 }
 
-@media only screen and (max-width: 1080px) {
+@media only screen and (min-device-width: 480px) {
   .personal-information {
     font-size: 20;
-  }  
+  }
 }
