@@ -70,7 +70,7 @@ a:hover {
   position: fixed;
 }
 
-@media only screen and (max-device-width: 1500px) {
+@media only screen and (max-device-width: 600px) {
   body {
     background-color: blue;
   }
