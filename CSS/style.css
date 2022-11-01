@@ -71,3 +71,7 @@ a:hover {
   position: fixed;
 }
 
+.hidden{
+  font-size: 0;
+}
+
