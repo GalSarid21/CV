@@ -19,7 +19,7 @@ h1 {
 h2 {
   font-family: 'Work Sans', sans-serif;
   color: #3C8DAD;
-  padding-left: 40px;
+  padding-left: 10px;
 }
 
 h3 {
@@ -51,6 +51,11 @@ td {
 
 a:hover {
   color: rgb(207, 11, 207);
+}
+
+img {
+  width: 160px;
+  height: 160px;
 }
 
 /*************************************************CLASS SELECTOR*******************************************/
